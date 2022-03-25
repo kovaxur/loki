@@ -1,4 +1,5 @@
 ## Main
+* [5709](https://github.com/grafana/loki/pull/5709) **chaudum** Add `syslog` parser stage to LogQL
 * [5707](https://github.com/grafana/loki/pull/5707) **franzwong** Promtail: Rename config name limit_config to limits_config.
 * [5626](https://github.com/grafana/loki/pull/5626) **jeschkies** Support multi-tenant select logs and samples queries.
 * [5622](https://github.com/grafana/loki/pull/5622) **chaudum**: Fix bug in query splitter that caused `interval` query parameter to be ignored and therefore returning more logs than expected.
